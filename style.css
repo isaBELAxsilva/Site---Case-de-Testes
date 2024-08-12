@@ -77,10 +77,13 @@ footer {
     justify-content: center;
 }
 
+
+/*
 main {
-    padding-top: 8%; /* Compensar a altura do cabeçalho */
-    padding-bottom: 8%; /* Compensar a altura do rodapé */
-}
+    padding-top: 8%;  'Compensar a altura do cabeçalho 
+    padding-bottom: 8%;  'Compensar a altura do rodapé 
+}*/
+
 
 section.screen {
     height: 100vh;
